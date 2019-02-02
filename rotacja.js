@@ -17,7 +17,6 @@ function blue() {
 
 x = 3
 
-
 function loop() {
     switch (x) {
         case 3:
@@ -30,11 +29,7 @@ function loop() {
             green();
             break;
     }
-    setTimeout( loop, 75 );  
+    setTimeout( loop, 75 );
 }
 
 loop();
-
-
-
-

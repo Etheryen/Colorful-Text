@@ -1,0 +1,10 @@
+#tekst {
+    font-size: 200px;
+}
+
+.no {
+  text-align: center;
+  top: 50%;
+  transform: translateY(-50%);
+  position: relative;
+}
